@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/lightxa/makefun-u-ricoxyz-break-production-own-it-be78a994/rank.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
 [![reward](https://make.fun/badge/u-ricoxyz-break-production-own-it-be78a994/lightxa/makefun-u-ricoxyz-break-production-own-it-be78a994/reward.svg)](https://make.fun/bounty/u-ricoxyz-break-production-own-it-be78a994?utm_source=github&utm_medium=readme&utm_campaign=u-ricoxyz-break-production-own-it-be78a994)
 
-A one-line confession: "I dropped the production database to free up disk space. It worked. There is no database anymore."
+A one-line confession: "I dropped the production database to free disk space. It worked. There is no database anymore."
 
 ## Run it
 
